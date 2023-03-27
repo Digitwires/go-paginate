@@ -1,3 +1,6 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/digitwires/go-paginate.svg)](https://pkg.go.dev/github.com/digitwires/go-paginate)
+[![Go Report Card](https://goreportcard.com/badge/github.com/digitwires/go-paginate)](https://goreportcard.com/report/github.com/digitwires/go-paginate)
+
 # go-paginate
 
 `go-paginate` is a simple Go package that adds pagination functionality to slice of data.
@@ -7,7 +10,7 @@
 To install `go-paginate`, use `go get`:
 
 ```go
-go get github.com/Digitwires/go-paginate
+go get github.com/digitwires/go-paginate
 ```
 
 
