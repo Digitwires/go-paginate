@@ -7,7 +7,7 @@
 To install `go-paginate`, use `go get`:
 
 ```go
-go get github.com/Digitwires/go-paginate
+go get github.com/digitwires/go-paginate
 ```
 
 
